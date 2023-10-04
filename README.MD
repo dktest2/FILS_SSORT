@@ -12,7 +12,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### Deploy on Heroku 🤖
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/Filetolinkdcbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dktest2/FILS_SSORT)
 
 
 🚀Features<p>
